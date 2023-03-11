@@ -6,4 +6,8 @@ Example 5 - Hello
 Example 6 - Hello
 Another 7 - Hi
 
-relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax 
+relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax relax
+
+More relaxing!
+
+Typing in some more stuff to practice using VS Code with github
